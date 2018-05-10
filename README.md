@@ -9,7 +9,7 @@ In order to run this app:
 1. Clone or download this repository to your local computer
 2. Using your terminal, go to the application folder
 3. Run `npm install` 
-4. Run `npm run`
+4. Run `npm start`
 5. Open your browser in `localhost:3000`
 
 -------------------- 
