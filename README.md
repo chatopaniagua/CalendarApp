@@ -10,7 +10,7 @@ In order to run this app:
 2. Using your terminal, go to the application folder
 3. Run `npm install` 
 4. Run `npm run`
-
+5. Open your browser in `localhost:3000`
 
 -------------------- 
 
