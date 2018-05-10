@@ -1,0 +1,67 @@
+.day-view-header{
+    display:flex;
+    margin-top:80px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align:left;
+    align-items: center;
+    padding:0 20px;
+}
+
+.day-view-header .day-view-title{
+    margin:0;
+    flex: 1 0 20px;
+}
+
+.day-view-header .day-header-buttons .btn:not(:last-child){
+    margin-right:5px;
+}
+
+.day-view-header ~ hr{
+    border-top-color: black;
+}
+
+.day-view-content{
+    display:flex;
+    align-items: stretch;
+}
+
+.day-view-content > div {
+    padding:40px;
+}
+
+.day-view-content .day-weather{
+    flex: 0 0 1px;
+    padding-left:20px;
+    
+}
+
+.day-view-content .day-events{
+    flex: 1 0 450px;
+    padding-right:40px;
+}
+
+.day-view-event-list{
+    background-color:#e5e5e5;
+    border: 1px solid #ccc;
+    min-height:200px;
+}
+
+.day-events #create-event-button{
+    margin-top:20px;
+}
+
+.day-events .event{
+    padding:15px;
+}
+
+.day-view-section-title{
+    font-size:2em;
+    font-weight: bold;
+    margin-bottom:15px;
+}
+
+.day-weather .powered-by-yahoo{
+    position:relative;
+    left:-6px;
+}

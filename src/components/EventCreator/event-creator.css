@@ -1,0 +1,8 @@
+#new-event-form hr {
+    border-top-color:gray;
+    margin-bottom:20px;
+}
+
+form .btn-primary{
+    margin-right:10px;
+}

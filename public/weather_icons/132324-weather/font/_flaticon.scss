@@ -1,0 +1,209 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:36
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-aquarius:before { content: "\f100"; }
+.flaticon-aries:before { content: "\f101"; }
+.flaticon-cancer:before { content: "\f102"; }
+.flaticon-capricorn:before { content: "\f103"; }
+.flaticon-cloud:before { content: "\f104"; }
+.flaticon-cloudy:before { content: "\f105"; }
+.flaticon-cloudy-1:before { content: "\f106"; }
+.flaticon-cloudy-2:before { content: "\f107"; }
+.flaticon-compass:before { content: "\f108"; }
+.flaticon-compass-1:before { content: "\f109"; }
+.flaticon-compass-2:before { content: "\f10a"; }
+.flaticon-compass-3:before { content: "\f10b"; }
+.flaticon-compass-4:before { content: "\f10c"; }
+.flaticon-compass-5:before { content: "\f10d"; }
+.flaticon-compass-6:before { content: "\f10e"; }
+.flaticon-crescent-moon:before { content: "\f10f"; }
+.flaticon-crescent-moon-1:before { content: "\f110"; }
+.flaticon-dawn:before { content: "\f111"; }
+.flaticon-drop:before { content: "\f112"; }
+.flaticon-first-quarter:before { content: "\f113"; }
+.flaticon-first-quarter-1:before { content: "\f114"; }
+.flaticon-fog:before { content: "\f115"; }
+.flaticon-fog-1:before { content: "\f116"; }
+.flaticon-fog-2:before { content: "\f117"; }
+.flaticon-fog-3:before { content: "\f118"; }
+.flaticon-full-moon:before { content: "\f119"; }
+.flaticon-gemini:before { content: "\f11a"; }
+.flaticon-hail:before { content: "\f11b"; }
+.flaticon-hail-1:before { content: "\f11c"; }
+.flaticon-hail-2:before { content: "\f11d"; }
+.flaticon-hail-3:before { content: "\f11e"; }
+.flaticon-hail-4:before { content: "\f11f"; }
+.flaticon-hail-5:before { content: "\f120"; }
+.flaticon-hail-6:before { content: "\f121"; }
+.flaticon-hail-7:before { content: "\f122"; }
+.flaticon-last-quarter:before { content: "\f123"; }
+.flaticon-leo:before { content: "\f124"; }
+.flaticon-libra:before { content: "\f125"; }
+.flaticon-lightning:before { content: "\f126"; }
+.flaticon-moon:before { content: "\f127"; }
+.flaticon-moon-1:before { content: "\f128"; }
+.flaticon-moon-2:before { content: "\f129"; }
+.flaticon-moon-3:before { content: "\f12a"; }
+.flaticon-moon-4:before { content: "\f12b"; }
+.flaticon-new-moon:before { content: "\f12c"; }
+.flaticon-pisces:before { content: "\f12d"; }
+.flaticon-rain:before { content: "\f12e"; }
+.flaticon-rain-1:before { content: "\f12f"; }
+.flaticon-rain-2:before { content: "\f130"; }
+.flaticon-rain-3:before { content: "\f131"; }
+.flaticon-rain-4:before { content: "\f132"; }
+.flaticon-rain-5:before { content: "\f133"; }
+.flaticon-rain-6:before { content: "\f134"; }
+.flaticon-rain-7:before { content: "\f135"; }
+.flaticon-sagittarius:before { content: "\f136"; }
+.flaticon-scorpio:before { content: "\f137"; }
+.flaticon-snow:before { content: "\f138"; }
+.flaticon-snow-1:before { content: "\f139"; }
+.flaticon-snow-2:before { content: "\f13a"; }
+.flaticon-snow-3:before { content: "\f13b"; }
+.flaticon-snow-4:before { content: "\f13c"; }
+.flaticon-snow-5:before { content: "\f13d"; }
+.flaticon-star:before { content: "\f13e"; }
+.flaticon-storm:before { content: "\f13f"; }
+.flaticon-storm-1:before { content: "\f140"; }
+.flaticon-storm-2:before { content: "\f141"; }
+.flaticon-storm-3:before { content: "\f142"; }
+.flaticon-storm-4:before { content: "\f143"; }
+.flaticon-storm-5:before { content: "\f144"; }
+.flaticon-storm-6:before { content: "\f145"; }
+.flaticon-storm-7:before { content: "\f146"; }
+.flaticon-storm-8:before { content: "\f147"; }
+.flaticon-storm-9:before { content: "\f148"; }
+.flaticon-sun:before { content: "\f149"; }
+.flaticon-sunset:before { content: "\f14a"; }
+.flaticon-taurus:before { content: "\f14b"; }
+.flaticon-virgo:before { content: "\f14c"; }
+.flaticon-waning-moon:before { content: "\f14d"; }
+.flaticon-waning-moon-1:before { content: "\f14e"; }
+.flaticon-wind:before { content: "\f14f"; }
+.flaticon-wind-1:before { content: "\f150"; }
+.flaticon-wind-2:before { content: "\f151"; }
+.flaticon-wind-3:before { content: "\f152"; }
+.flaticon-wind-4:before { content: "\f153"; }
+.flaticon-wind-5:before { content: "\f154"; }
+    
+    $font-Flaticon-aquarius: "\f100";
+    $font-Flaticon-aries: "\f101";
+    $font-Flaticon-cancer: "\f102";
+    $font-Flaticon-capricorn: "\f103";
+    $font-Flaticon-cloud: "\f104";
+    $font-Flaticon-cloudy: "\f105";
+    $font-Flaticon-cloudy-1: "\f106";
+    $font-Flaticon-cloudy-2: "\f107";
+    $font-Flaticon-compass: "\f108";
+    $font-Flaticon-compass-1: "\f109";
+    $font-Flaticon-compass-2: "\f10a";
+    $font-Flaticon-compass-3: "\f10b";
+    $font-Flaticon-compass-4: "\f10c";
+    $font-Flaticon-compass-5: "\f10d";
+    $font-Flaticon-compass-6: "\f10e";
+    $font-Flaticon-crescent-moon: "\f10f";
+    $font-Flaticon-crescent-moon-1: "\f110";
+    $font-Flaticon-dawn: "\f111";
+    $font-Flaticon-drop: "\f112";
+    $font-Flaticon-first-quarter: "\f113";
+    $font-Flaticon-first-quarter-1: "\f114";
+    $font-Flaticon-fog: "\f115";
+    $font-Flaticon-fog-1: "\f116";
+    $font-Flaticon-fog-2: "\f117";
+    $font-Flaticon-fog-3: "\f118";
+    $font-Flaticon-full-moon: "\f119";
+    $font-Flaticon-gemini: "\f11a";
+    $font-Flaticon-hail: "\f11b";
+    $font-Flaticon-hail-1: "\f11c";
+    $font-Flaticon-hail-2: "\f11d";
+    $font-Flaticon-hail-3: "\f11e";
+    $font-Flaticon-hail-4: "\f11f";
+    $font-Flaticon-hail-5: "\f120";
+    $font-Flaticon-hail-6: "\f121";
+    $font-Flaticon-hail-7: "\f122";
+    $font-Flaticon-last-quarter: "\f123";
+    $font-Flaticon-leo: "\f124";
+    $font-Flaticon-libra: "\f125";
+    $font-Flaticon-lightning: "\f126";
+    $font-Flaticon-moon: "\f127";
+    $font-Flaticon-moon-1: "\f128";
+    $font-Flaticon-moon-2: "\f129";
+    $font-Flaticon-moon-3: "\f12a";
+    $font-Flaticon-moon-4: "\f12b";
+    $font-Flaticon-new-moon: "\f12c";
+    $font-Flaticon-pisces: "\f12d";
+    $font-Flaticon-rain: "\f12e";
+    $font-Flaticon-rain-1: "\f12f";
+    $font-Flaticon-rain-2: "\f130";
+    $font-Flaticon-rain-3: "\f131";
+    $font-Flaticon-rain-4: "\f132";
+    $font-Flaticon-rain-5: "\f133";
+    $font-Flaticon-rain-6: "\f134";
+    $font-Flaticon-rain-7: "\f135";
+    $font-Flaticon-sagittarius: "\f136";
+    $font-Flaticon-scorpio: "\f137";
+    $font-Flaticon-snow: "\f138";
+    $font-Flaticon-snow-1: "\f139";
+    $font-Flaticon-snow-2: "\f13a";
+    $font-Flaticon-snow-3: "\f13b";
+    $font-Flaticon-snow-4: "\f13c";
+    $font-Flaticon-snow-5: "\f13d";
+    $font-Flaticon-star: "\f13e";
+    $font-Flaticon-storm: "\f13f";
+    $font-Flaticon-storm-1: "\f140";
+    $font-Flaticon-storm-2: "\f141";
+    $font-Flaticon-storm-3: "\f142";
+    $font-Flaticon-storm-4: "\f143";
+    $font-Flaticon-storm-5: "\f144";
+    $font-Flaticon-storm-6: "\f145";
+    $font-Flaticon-storm-7: "\f146";
+    $font-Flaticon-storm-8: "\f147";
+    $font-Flaticon-storm-9: "\f148";
+    $font-Flaticon-sun: "\f149";
+    $font-Flaticon-sunset: "\f14a";
+    $font-Flaticon-taurus: "\f14b";
+    $font-Flaticon-virgo: "\f14c";
+    $font-Flaticon-waning-moon: "\f14d";
+    $font-Flaticon-waning-moon-1: "\f14e";
+    $font-Flaticon-wind: "\f14f";
+    $font-Flaticon-wind-1: "\f150";
+    $font-Flaticon-wind-2: "\f151";
+    $font-Flaticon-wind-3: "\f152";
+    $font-Flaticon-wind-4: "\f153";
+    $font-Flaticon-wind-5: "\f154";

@@ -1,0 +1,9 @@
+@media (min-width: 768px){
+    .day-weather-info .dl-horizontal dt {
+        text-align: left;
+    }
+    .dl-horizontal dd {
+        margin-left: 180px;
+        white-space: nowrap;
+    }
+}
